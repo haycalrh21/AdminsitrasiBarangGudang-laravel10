@@ -24,7 +24,7 @@ Anda dapat menampilkan gambar dalam bentuk daftar :
 4. ![Data Supplier](public/admbarang/datasupplier.png)
 5. ![Permintaan Barang ](public/admbarang/permintaanbarang.png)
 6. ![Tambah Supplier](public/admbarang/tambahsupplier.png)
-7. ![PDF laporan](public/admbarang/pdflaporanbarang.png)
+7. ![PDF laporan](public/admbarang/pdflaporanbarangjual.png)
 
 ## Instalasi
 
